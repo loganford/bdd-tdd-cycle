@@ -96,16 +96,103 @@
         null,
         null,
         1,
-        1,
+        0,
         null,
         null
       ]
     },
-    "timestamp": 1459368842
+    "timestamp": 1459551397
   },
   "Cucumber Features": {
     "coverage": {
+      "/home/ubuntu/workspace/app/controllers/movies_controller.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/ubuntu/workspace/app/controllers/application_controller.rb": [
+        0,
+        0,
+        0
+      ],
+      "/home/ubuntu/workspace/app/models/movie.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/home/ubuntu/workspace/app/helpers/application_helper.rb": [
+        0,
+        0
+      ],
+      "/home/ubuntu/workspace/app/helpers/movies_helper.rb": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
     },
-    "timestamp": 1459368918
+    "timestamp": 1459551643
   }
 }
